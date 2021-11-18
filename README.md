@@ -1,3 +1,3 @@
 # UnicomHostList
 A host domain list of China Unicom
-# [Click to see](https://github.com/jiangbeth/UnicomHostList/blob/main/List)
+# [点击进入查看](https://github.com/jiangbeth/UnicomHostList/blob/main/List)
